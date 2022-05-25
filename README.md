@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Just the Class
+title: CS 160
 nav_exclude: true
 permalink: index.html
 seo:
   type: Course
-  name: Just the Class
+  name: User Interface Design and Development
 ---
 
-# Just the Class
+# CS 160: User Interface Design and Development
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Welcome to CS 160 Summer 2022! Below you may access 
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),

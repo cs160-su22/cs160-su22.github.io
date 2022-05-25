@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CS 160
-tagline: User Interface and Design
+tagline: User Interface Design and Development
 description: 
 author: Diyah Mettupalli
 #baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
