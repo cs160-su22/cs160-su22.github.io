@@ -19,18 +19,40 @@ description: >-
 ## About
 
 
-## Weekly Lecture Format
+## Weekly Format
 
-We will have lectures on Monday, Tuesday, Wednesday, and Thursday from 11am-12:30pm every week. Studios will be led by CS 160 Teaching Assistants and lectures will be taught by Instructors. A general weekly schedule can be found below: 
+### Lectures
+We will have lectures on Monday, Tuesday, Wednesday, and Thursday from **11am-12:30pm** every week. Studios will be led by CS 160 Teaching Assistants and lectures will be taught by Instructors. A general weekly schedule can be found below: 
 - Monday: Studio (in-person)
 - Tuesday: Lecture (in-person)
 - Wednesday: Lecture (remote)
 - Thursday: Lecture (remote)
 
-## Resources
+###Discussions
+Each week, we will cover 2 topics. We will offer a total of 8 sections every week, allotting 4 sections per topic. Discussion sections are entirely optional, however students should try to attend 1 section for each topic to get the most of the concepts taught in these offerings. 
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+## Office Hours
 
-## Assignments
+Office Hours will be posted on a Google Calendar. 
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+## Attendance
+
+You are expected to attend all lectures and all studios. Everything that we say in class may be included in any assessment, and may be difficult to obtain through other channels. Lecture will consist partly of breakout room discussions, which will not be recorded. After lectures, you will be expected to complete a “quiz” focused on the breakout room topics, which will be simple to complete for those in attendance. Studio will be spent working on group deliverables that are required for the homework.
+
+Sections are not required, but we anticipate in many cases they will be extremely useful to your success in the course and beyond. Make sure you do not have conflicts with at least one section time for each topic so you can get timely help preparing for assignments and practicing skills.
+
+## Grading Policy
+
+Final grades will be determined with the following breakdown:
+30\% Weekly projects: The weekly projects each consist of Design Cycle Checkpoints. Each checkpoint will be graded independently with a detailed rubric. These rubrics will be released with the grades. All submissions should adhere to the guidelines for successful submissions.
+30\% Final project: Final projects take place during the last three weeks of class in assigned groups of 4-6. For grading, we will take into account several aspects of the final project process: teamwork and participation, design checkpoints, observation/need-finding, evaluation, implementation, and deliverables (e.g., presentation, poster, article).
+20\% Participation: Your participation grade is determined based on your attendance, preparation, and participation in class and studio, and the feedback you provide on your peers’ designs. It is also determined by your activity on the course Slack and Piazza. Studio takes place on Fridays for the first 5 weeks of class, and you will provide feedback on peers’ designs.
+20\% Assessments: Every week for the first 6 weeks, there will be a quiz. The quiz will cover content throughout the week, so we encourage you to complete it progressively during the week instead of waiting until the end. It will be multiple choice and short answer, and will cover lecture material (including breakout room prompts), readings from any prior week, and readings from the current week. There is no midterm or final exam.
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
