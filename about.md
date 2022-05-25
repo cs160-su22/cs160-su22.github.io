@@ -28,7 +28,7 @@ We will have lectures on Monday, Tuesday, Wednesday, and Thursday from **11am-12
 - Wednesday: Lecture (remote)
 - Thursday: Lecture (remote)
 
-###Discussions
+### Discussions
 Each week, we will cover 2 topics. We will offer a total of 8 sections every week, allotting 4 sections per topic. Discussion sections are entirely optional, however students should try to attend 1 section for each topic to get the most of the concepts taught in these offerings. 
 
 ## Office Hours
@@ -44,9 +44,13 @@ Sections are not required, but we anticipate in many cases they will be extremel
 ## Grading Policy
 
 Final grades will be determined with the following breakdown:
+
 30\% Weekly projects: The weekly projects each consist of Design Cycle Checkpoints. Each checkpoint will be graded independently with a detailed rubric. These rubrics will be released with the grades. All submissions should adhere to the guidelines for successful submissions.
+
 30\% Final project: Final projects take place during the last three weeks of class in assigned groups of 4-6. For grading, we will take into account several aspects of the final project process: teamwork and participation, design checkpoints, observation/need-finding, evaluation, implementation, and deliverables (e.g., presentation, poster, article).
+
 20\% Participation: Your participation grade is determined based on your attendance, preparation, and participation in class and studio, and the feedback you provide on your peers’ designs. It is also determined by your activity on the course Slack and Piazza. Studio takes place on Fridays for the first 5 weeks of class, and you will provide feedback on peers’ designs.
+
 20\% Assessments: Every week for the first 6 weeks, there will be a quiz. The quiz will cover content throughout the week, so we encourage you to complete it progressively during the week instead of waiting until the end. It will be multiple choice and short answer, and will cover lecture material (including breakout room prompts), readings from any prior week, and readings from the current week. There is no midterm or final exam.
 
 | head1        | head two          | three |
