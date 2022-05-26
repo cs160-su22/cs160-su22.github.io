@@ -24,7 +24,7 @@ The course features two parts: (1) five weeks of curriculum and practice, and (2
 
 **Curriculum and practice**: For the first five weeks, lecture occurs three days a week (Monday, Tuesday, and Thursday), studio once a week (Fridays during lecture), and section occurs twice a week. While lectures and studio focus on introducing core HCI concepts, sections reinforce these concepts and help students improve technical skills. Outside of class, students will work individually or in pairs on weekly projects. Weekly projects allow students to engage in the design cycle and develop technical skills.
 
-*Final project*: Using design methodologies and technical skills learned during the first five weeks, students will work in groups for the last three weeks to ideate, prototype and implement a final project. Students will choose their own design methodologies and project topic within a theme. During the last three weeks, final project studio will take the place of lecture and studio. Final project studio provides in-class time for teams to work together and receive feedback from course staff.
+**Final project**: Using design methodologies and technical skills learned during the first five weeks, students will work in groups for the last three weeks to ideate, prototype and implement a final project. Students will choose their own design methodologies and project topic within a theme. During the last three weeks, final project studio will take the place of lecture and studio. Final project studio provides in-class time for teams to work together and receive feedback from course staff.
 
 The instructors for this summer’s CS 160 course are Diyah Mettupalli and Shm Almeda.
 
