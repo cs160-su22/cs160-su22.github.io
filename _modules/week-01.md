@@ -1,23 +1,19 @@
 ---
-title: Introduction to Java
+title: Week 1 - Introduction to Design & HCL
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+June 21
+: **Lecture**{: .label .label-purple }[Introduction](#)
+  : [Slides](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+June 22
+: **Lecture**{: .label .label-purple }[Introduction](#)
+  : [Slides](#)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+June 23
+: **Remote Lecture**{: .label .label-purple }[Introduction](#)
+   : [Slides](#)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+June 24
+: **Studio**{: .label .label-red } [Studio 1](#)
+: **Quiz 1 due**{: .label }
