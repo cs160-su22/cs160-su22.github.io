@@ -66,17 +66,18 @@ Sections are not required, but we anticipate in many cases they will be extremel
 
 Final grades will be determined with the following breakdown:
 
-30\% Weekly projects: The weekly projects each consist of Design Cycle Checkpoints. Each checkpoint will be graded independently with a detailed rubric. These rubrics will be released with the grades. All submissions should adhere to the guidelines for successful submissions.
+**30\% Weekly projects**: The weekly projects each consist of Design Cycle Checkpoints. Each checkpoint will be graded independently with a detailed rubric. These rubrics will be released with the grades. All submissions should adhere to the guidelines for successful submissions.
 
-30\% Final project: Final projects take place during the last three weeks of class in assigned groups of 4-6. For grading, we will take into account several aspects of the final project process: teamwork and participation, design checkpoints, observation/need-finding, evaluation, implementation, and deliverables (e.g., presentation, poster, article).
+**30\% Final project**: Final projects take place during the last three weeks of class in assigned groups of 4-6. For grading, we will take into account several aspects of the final project process: teamwork and participation, design checkpoints, observation/need-finding, evaluation, implementation, and deliverables (e.g., presentation, poster, article).
 
-20\% Participation: Your participation grade is determined based on your attendance, preparation, and participation in class and studio, and the feedback you provide on your peers’ designs. It is also determined by your activity on the course Slack and Piazza. Studio takes place on Fridays for the first 5 weeks of class, and you will provide feedback on peers’ designs.
+**20\% Participation**: Your participation grade is determined based on your attendance, preparation, and participation in class and studio, and the feedback you provide on your peers’ designs. It is also determined by your activity on the course Slack and Piazza. Studio takes place on Fridays for the first 5 weeks of class, and you will provide feedback on peers’ designs.
 
-20\% Assessments: Every week for the first 6 weeks, there will be a quiz. The quiz will cover content throughout the week, so we encourage you to complete it progressively during the week instead of waiting until the end. It will be multiple choice and short answer, and will cover lecture material (including breakout room prompts), readings from any prior week, and readings from the current week. There is no midterm or final exam.
+**20\% Assessments**: Every week for the first 6 weeks, there will be a quiz. The quiz will cover content throughout the week, so we encourage you to complete it progressively during the week instead of waiting until the end. It will be multiple choice and short answer, and will cover lecture material (including breakout room prompts), readings from any prior week, and readings from the current week. There is no midterm or final exam.
 
 ## Late Policies
 
-Unless otherwise specified, assignments will have a 24 hour grace period. This is meant to be used for extenuating circumstances, or if being in a different time zone makes it challenging to complete a particular assignment in time (e.g., responding to peer feedback). This should be used as an exception, not as habit, or else it will be easy to fall behind.
+Unless otherwise specified, assignments will have a 24 hour grace period. This is meant to be used for extenuating circumstances, or if being in a different time zone makes it challenging to complete a particular assignment in time (e.g., responding to peer feedback). This **_should be used as an exception, not as habit_**, or else it will be easy to fall behind.
+
 In order to efficiently process all other extension requests, we are using the following Google form: https://forms.gle/HBcBviQHmQf2KEuC9. If you would like to request an extension on an assignment, please fill out this form before the due date, as this allows us to easily evaluate and make a decision on your request.
 
 If you are not in the Disabled Students Program and would like to request an assignment extension (i.e. under extenuating circumstances) - please include as much information and/or documentation as possible to help us understand the nature of your request. If you are in the Disabled Students Program, and we have received a copy of your DSP accommodations letter, timely requests for extensions <= 4 days are automatically approved.
