@@ -1,41 +1,35 @@
 ---
 title: Week 4 - Interviewing
-subtitle: (This week, lecture will be entirely online.)
+subtitle: (This week, class will be entirely online.)
 ---
 
 MON July 11
-: **Remote Lecture**{: .label .label-purple }[Lecture 7](#)
-: **Reading**{: .label .label-green } [The Model Human Processor (Section 2.1)]()
-: **Reading**{: .label .label-green } [Which Humans? Innovation, Equity, and Imagination in Human-Centered Design (Keynote at CHI)]()
+: **Studio**{: .label .label-red } [Studio 3](#)
+: **Project 2**{: .label .label-yellow} 2.7 Usability Test
+
 
 TUE July 12
-: **Remote Lecture**{: .label .label-purple }[Lecture 8](#)
-   : [Slides](#)
-: **Project 2**{: .label .label-yellow} 2.4 Observational Studies & Synthesis
-: **Reading**{: .label .label-green }[Cognitive Walkthroughs _(Focus on **"How To"** Section)_](https://www.usabilitybok.org/cognitive-walkthrough)
-: **Reading**{: .label .label-green }[The Racial Bias Built into Photography)](https://drive.google.com/file/d/1sQ57eZtYvSphDrc0OM-F9QqsqRX91SIS/view?usp=sharing)
+: **Remote Lecture**{: .label .label-purple }[Lecture 10](#)
+: **Reading**{: .label .label-green } [The Model Human Processor **_(Read Section 2.1)_**](https://drive.google.com/file/d/1nyEJi3EVMs7AONeO1zUbmHCvHsaXvbTd/view?usp=sharing)
+: **Project 2**{: .label .label-yellow} 2.8 Figma Prototype Revision
+
 
 
 
 WED July 13
-: **Project 2**{: .label .label-yellow} 2.5 Concept & Low-Fidelity Sketches
-: **Project 3**{: .label .label-yellow} Additional Tasks + Final Report 
-: **Remote Lecture**{: .label .label-purple }[Lecture 9](#)
+: **Remote Lecture**{: .label .label-purple }[Lecture 11](#)
   : [Slides](#)
-: **Reading**{: .label .label-green }[Doing Psychology Experiments _**(Read Ch. 2 & 12)**_](https://drive.google.com/file/d/1U5qLPzlmmLgTh1nPyPvtdTXWG3ylhazi/view?usp=sharing)
-: **Reading**{: .label .label-green } [ Storyboards, Paper Prototypes, and Mockups](https://www.youtube.com/watch?v=z4glsttyxw8)
+: **Reading**{: .label .label-green } [Which Humans? Innovation, Equity, and Imagination in Human-Centered Design (Keynote at CHI)](https://www.youtube.com/watch?v=kDcz44ifdQw)
 
 
 THURS July 14
+: **Remote Lecture**{: .label .label-purple }[Lecture 12](#)
+  : [Slides](#)
+
+
 
 FRI July 15
 : **Quiz 4 due**{: .label }
 
-**Resources**
-: [Interactive Guide to Typography](http://www.kaikkonendesign.fi.s3-website-eu-west-1.amazonaws.com/typography/)
+ 
 
----
-title: Week 4 - TBA
----
-
-TBA
