@@ -1,18 +1,19 @@
 ---
 title: Week 1 - Introduction to Design & HCI 
-subtitle: (Note - In observance of Juneteenth, this week starts on Tuesday, and Studio class will occur on Friday instead of Monday.)
+subtitle: (In observance of Juneteenth, this week starts on Tuesday, and Studio class will occur on Friday instead of Monday.)
 ---
 
 Jun 21
 : **Lecture**{: .label .label-purple }[Introduction](#)
   : [Slides](#)
 : **Reading**{: .label .label-green }[Being Good at Doing Good](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45295.pdf)
-: **<bold>Reading</bold>**{: .label .label-green }[<normal>A Hundred Racist Designs (pick 10)</normal>](https://otlhogilegordon.medium.com/a-hundred-racist-designs-ff713cd5aa42)
+: **<bold>Reading</bold>**{: .label .label-green }[<normal>A Hundred Racist Designs </normal>_(Pick 10)_](https://otlhogilegordon.medium.com/a-hundred-racist-designs-ff713cd5aa42)
   : _CW: The content of this reading may be challenging or triggering._
 
 Jun 22
 : **Lecture**{: .label .label-purple }[Lecture 2](#)
   : [Slides](#)
+: **Project 1**{: .label .label-yellow} 1.1 Mood Board (bCourses + Slack)
 : **Reading**{: .label .label-green } [The Design of Everyday Things (Chapter 1)](https://drive.google.com/file/d/1UhJckNhGz-R50ztGZC8z9W32tIlGGP8B/view?usp=sharing)
 
 
@@ -34,5 +35,6 @@ Jun 24
 : [Codecademy: CSS](https://www.codecademy.com/learn/learn-css)
 : [Bootstrap Documentation](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 : [Medium Post: Build a Personal Website with HTML and CSS](https://medium.com/@ianjsikes/build-a-personal-website-with-html-and-css-part-1-3013fb5dacd4)
+: [How To Run a Design Critique](https://scottberkun.com/essays/23-how-to-run-a-design-critique/)
 
 
