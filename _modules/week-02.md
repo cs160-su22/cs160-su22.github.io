@@ -3,7 +3,7 @@ title: Week 2 - User Studies + Prototyping
 ---
 
 MON 6/27
-: **Studio**{: .label .label-red } [Studio 2](#)
+: **Studio**{: .label .label-red } [**Studio 2**](#)
 : **Reading**{: .label .label-green } [How to Conduct a Heuristic Evaluation](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/)
 : **Reading**{: .label .label-green } [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
