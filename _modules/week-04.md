@@ -4,7 +4,7 @@ subtitle: (This week, class will be entirely online.)
 ---
 
 MON July 11
-: **Studio**{: .label .label-red } [Studio 3](#)
+: **Studio**{: .label .label-red } [_Studio 3_](#)
 : **Project 2**{: .label .label-yellow} 2.7 Usability Test
 
 
