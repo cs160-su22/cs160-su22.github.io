@@ -1,10 +1,11 @@
 ---
-title: Week 1 - Introduction to Design & HCL
+title: Week 1 - Introduction to Design & HCI
 ---
 
 Jun 21
 : **Lecture**{: .label .label-purple }[Introduction](#)
   : [Slides](#)
+:**Reading**{: .label .label-grey } [Being Good at Doing Good: Design Precepts for Social Justice HCI Projects](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45295.pdf)
 
 Jun 22
 : **Lecture**{: .label .label-purple }[Introduction](#)
