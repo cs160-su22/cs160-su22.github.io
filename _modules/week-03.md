@@ -5,6 +5,7 @@ subtitle: (In observance of the Fourth of July, there is no class on Monday, so 
 
 TUE 7/5
 : **Lecture**{: .label .label-purple }[Lecture 7](#)
+   : [Slides](#)
 : **Reading**{: .label .label-green } [Prototyping _**(Read "Paper Prototypes" and "Wizard of Oz" sections)**_](http://courses.csail.mit.edu/6.831/2014/readings/L10-prototyping/#paper-prototypes)
 : **Reading**{: .label .label-green } [All About Grid Systems](
 https://webdesign.tutsplus.com/articles/all-about-grid-systems--webdesign-14471)
