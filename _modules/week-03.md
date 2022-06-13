@@ -19,13 +19,12 @@ WED 7/6
 : **Reading**{: .label .label-green }[The Racial Bias Built into Photography)](https://drive.google.com/file/d/1sQ57eZtYvSphDrc0OM-F9QqsqRX91SIS/view?usp=sharing)
 
 
-
-THURS 7/7
-: **Project 3**{: .label .label-yellow} 2-3 Additional Tasks, Final Report 
+THU 7/7
 : **Lecture**{: .label .label-purple }[Lecture 9](#)
   : [Slides](#)
 : **Reading**{: .label .label-green }[Doing Psychology Experiments _**(Read Ch. 2 & 12)**_](https://drive.google.com/file/d/1U5qLPzlmmLgTh1nPyPvtdTXWG3ylhazi/view?usp=sharing)
 : **Reading**{: .label .label-green } [ Storyboards, Paper Prototypes, and Mockups](https://www.youtube.com/watch?v=z4glsttyxw8)
+: **Project 3**{: .label .label-yellow} 2-3 Additional Tasks, Final Report 
 
 
 FRI 7/8

@@ -1,5 +1,6 @@
 ---
-title: Week 5 - 
+title: Week 5 - Beyond the Screen
+subtitle: 
 ---
 
 MON 7/18
@@ -10,5 +11,11 @@ MON 7/18
 
 TUE 7/19
 : **Lecture**{: .label .label-purple }[Lecture 10](#)
+  : [Slides](#)
 
---More TBA! --
+MORE 
+: TBA!
+
+
+**Resources**
+: 

@@ -18,7 +18,7 @@ WED 6/22
 
 
 
-THURS 6/23
+THU 6/23
 : **Remote Lecture**{: .label .label-purple }[Lecture 3](#)
    : [Slides](#)
 : **Project 1**{: .label .label-yellow} 1.2 Interaction Sketches (bCourses + Slack)

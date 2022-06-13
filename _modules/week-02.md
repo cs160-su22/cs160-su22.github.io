@@ -23,14 +23,14 @@ WED 6/29
 : **Reading**{: .label .label-green }[The Black Experience in Graphic Design: 1968 and 2020](https://letterformarchive.org/news/view/the-black-experience-in-graphic-design-1968-and-2020)
 
 
-THURS 6/30
+THU 6/30
 : **Lecture**{: .label .label-purple }[Lecture 6](#)
   : [Slides](#)
 : **Project 2**{: .label .label-yellow} 2.3 Recruiting Message
 : **Project 3**{: .label .label-yellow} 3.1 Task 1A and 1B
 : **Reading**{: .label .label-green } [Principles of Contextual Inquiry](https://drive.google.com/file/d/1KomuKGYFFKYJ3WbEHtGIWnndhooajf0D/view?usp=sharing)
 
-FRI July 1
+FRI 7/1
 : **Quiz 2 due**{: .label }
 
 **Resources**
