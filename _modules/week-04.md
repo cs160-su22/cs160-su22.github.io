@@ -26,6 +26,10 @@ THU 7/14
 
 FRI 7/15
 : **Quiz 4 due**{: .label }
+: **Project 2**{: .label .label-yellow} 2.9 Interactive Prototype & Final Report 
+{% comment %}
+Potentially could change this deadline to following monday
+{% endcomment %}
 
 **Resources**
 : 

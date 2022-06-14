@@ -31,3 +31,11 @@ This page is under construction! :-)
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+
+## Readers
+
+{% assign readers = site.staffers | where: 'role', 'Reader' %}
+{% for staffer in readers %}
+{{ staffer }}
+{% endfor %}
