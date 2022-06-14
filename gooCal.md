@@ -2,6 +2,7 @@
 layout: gooCal
 title: Google Calendar
 description: Google Calendar!
+nav_exclude: true
 ---
 
 <meta charset='utf-8' />
