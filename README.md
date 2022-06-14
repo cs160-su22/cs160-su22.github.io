@@ -10,6 +10,8 @@ seo:
 
 # CS 160: User Interface Design and Development
 
+[_Lecture Zoom Link_](https://berkeley.zoom.us/j/94704138173){: .btn .btn-outline }
+
 Welcome to CS 160 Summer 2022!
 
 CS 160 is the introductory course to the field of **Human Computer Interaction (HCI)**. In this class, students will learn to design, prototype and evaluate user interfaces. Unlike most classes, CS 160 will not focus on any particular set of algorithmic techniques, instead students will learn techniques for user-centered interface design (e.g., prototyping, contextual inquiry, heuristic evaluation etc). This summer, we will learn how to use front-end web development technologies (HTML, CSS and JavaScript) and a backend for prototyping.

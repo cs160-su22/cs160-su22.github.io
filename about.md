@@ -49,7 +49,7 @@ Each week, we will cover 2 topics. We will offer a total of 8 sections every wee
 
 ## Office Hours
 
-Office Hours will be posted on our [Google Calendar](). 
+Office Hours will be posted on our [Google Calendar](/schedule/#google-calendar). 
 
 ## Attendance
 
