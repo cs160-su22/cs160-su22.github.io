@@ -13,13 +13,6 @@ description: >-
 
 ---
 
-## About
-
-CS 160 is the introductory course to the field of Human Computer Interaction (HCI). In this class, students will learn to design, prototype and evaluate user interfaces. Unlike most classes, CS 160 will not focus on any particular set of algorithmic techniques; instead students will learn techniques for user-centered interface design (e.g., prototyping, contextual inquiry, heuristic evaluation etc). 
-
-This summer, we will use **front-end web development** technologies (HTML, CSS and JavaScript) and some backend for prototyping.
-
-The course features two parts: (1) five weeks of curriculum and practice, and (2) three weeks of a final project.
 
 ### **Curriculum and practice**: 
 
@@ -29,9 +22,6 @@ For the first five weeks, **lecture** occurs three days a week (Tuesday, Wednesd
 
 Using design methodologies and technical skills learned during the first five weeks, students will work in groups for the last three weeks to ideate, prototype and implement a final project. Students will choose their own design methodologies and project topic within a theme. During the last three weeks, final project studio will take the place of lecture and studio. Final project studio provides in-class time for teams to work together and receive feedback from course staff.
 
-The instructors for this summer’s CS 160 course are Diyah Mettupalli and Shm Almeda.
-
-On this website, you can find the schedule of topics and course policies, projects deadlines and readings, as well as office hours.
 
 ## Weekly Format
 
@@ -55,7 +45,7 @@ Each week, we will cover 2 topics. We will offer a total of 8 sections every wee
 
 Office Hours will be posted on our [Google Calendar](/schedule/#google-calendar). 
 
-## Attendance
+## Attendance & Participation
 
 You are expected to attend all lectures and all studios. Everything that we say in class may be included in any assessment, and may be difficult to obtain through other channels. 
 After lectures or studio, you may be expected to complete an assignment that will be simple to complete for those in attendance. 
@@ -86,7 +76,7 @@ Final grades will be determined with the following breakdown:
 
 **30\% Final project**: Final projects take place during the last three weeks of class in assigned groups of 4-6. For grading, we will take into account several aspects of the final project process: teamwork and participation, design checkpoints, observation/need-finding, evaluation, implementation, and deliverables (e.g., presentation, poster, article).
 
-**20\% Participation**: Your participation grade is determined based on your attendance, preparation, and participation in class and studio, and the feedback you provide on your peers’ designs. It is also determined by your activity on the course Slack and Piazza. Studio takes place on Fridays for the first 5 weeks of class, and you will provide feedback on peers’ designs.
+**20\% Participation**: Your participation grade is determined based on your attendance, preparation, and participation in class and studio, and the feedback you provide on your peers’ designs. It is also determined by your activity on the course Slack. Studio takes place on Mondays, then Mon-Thurs for the last 3 weeks of class, and you will provide feedback on peers’ designs.
 
 **20\% Assessments**: Every week for the first 6 weeks, there will be a quiz. The quiz will cover content throughout the week, so we encourage you to complete it progressively during the week instead of waiting until the end. It will be multiple choice and short answer, and will cover lecture material (including breakout room prompts), readings from any prior week, and readings from the current week. There is no midterm or final exam.
 
