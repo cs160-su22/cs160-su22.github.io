@@ -53,9 +53,16 @@ Office Hours will be posted on our [Google Calendar](/schedule/#google-calendar)
 
 ## Attendance
 
-You are expected to attend all lectures and all studios. Everything that we say in class may be included in any assessment, and may be difficult to obtain through other channels. Lecture will consist partly of breakout room discussions, which will not be recorded. After lectures, you may be expected to complete a “quiz” focused on the breakout room topics, which will be simple to complete for those in attendance. Studio will be spent working on group deliverables that are required for the homework.
+You are expected to attend all lectures and all studios. Everything that we say in class may be included in any assessment, and may be difficult to obtain through other channels. 
+Studio sessions and any breakout room discussions will not be recorded. After lectures or studio, you may be expected to complete an assignment that will be simple to complete for those in attendance. 
+
+If you miss a lecture, you can complete a make-up assignment by filling out [this form](#) to earn the participation point. 
 
 Sections are not required, but we anticipate in many cases they will be extremely useful to your success in the course and beyond. Make sure you do not have conflicts with at least one section time for each topic so you can get timely help preparing for assignments and practicing skills.
+
+There are 30 total participation points -- participating in a lecture or studio session earns you 1 participation point. You need only 20/30 participation points to receive a full participation grade. 
+You can also earn participation points by being active on the course Slack.
+At the end of the course, excellent participation will be taken into account for students with borderline final grades. 
 
 ## Accounts
 
