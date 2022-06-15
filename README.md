@@ -20,6 +20,8 @@ CS 160 is the introductory course to the field of **Human Computer Interaction (
 
 The course features two parts: (1) five weeks of curriculum and practice, and (2) three weeks of a final project.
 
+The instructors for this summer’s CS 160 course are Diyah Mettupalli and Shm Almeda, supported by Head TA Timothy Yang.
+
 
 # Upcoming Checkpoints
 This is the authoritative list of upcoming deadlines. Come to lecture and check on this list regularly for updates. Readings are due before class on that day. Other assignments are due at midnight Pacific Time on the end of that day.

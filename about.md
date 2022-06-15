@@ -43,6 +43,10 @@ We will have lectures on Monday, Tuesday, Wednesday, and Thursday from **11am-12
 - Wednesday: Lecture (remote)
 - Thursday: Lecture (in-person)
 
+Lectures will be recorded, and recordings will be made available on the [course syllabus page.](/calendar) 
+
+If you miss a lecture, you can complete a make-up assignment by watching the recording and filling out [this form](#).
+
 #### Discussion Sections
 
 Each week, we will cover 2 topics. We will offer a total of 8 sections every week, allotting 4 sections per topic. Discussion section attendance is not counted towards your grade, however - students should try to attend **1 section for each topic** to get the most of the concepts taught in these offerings and be prepared for upcoming assignments. 
@@ -57,7 +61,7 @@ You are expected to attend all lectures and all studios. Everything that we say 
 After lectures or studio, you may be expected to complete an assignment that will be simple to complete for those in attendance. 
 Studio sessions and any breakout room discussions will not be recorded. Lectures will be recorded, and recordings will be made available on the [course syllabus page.](/calendar) 
 
-If you miss a lecture, you can complete a make-up assignment by filling out [this form](#) to earn the participation point. 
+If you miss a lecture, you can complete a make-up assignment by watching the recording and filling out [this form](#).
 
 Sections are not required, but we anticipate in many cases they will be extremely useful to your success in the course and beyond. Make sure you do not have conflicts with at least one section time for each topic so you can get timely help preparing for assignments and practicing skills.
 
