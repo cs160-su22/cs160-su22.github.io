@@ -54,7 +54,8 @@ Office Hours will be posted on our [Google Calendar](/schedule/#google-calendar)
 ## Attendance
 
 You are expected to attend all lectures and all studios. Everything that we say in class may be included in any assessment, and may be difficult to obtain through other channels. 
-Studio sessions and any breakout room discussions will not be recorded. After lectures or studio, you may be expected to complete an assignment that will be simple to complete for those in attendance. 
+After lectures or studio, you may be expected to complete an assignment that will be simple to complete for those in attendance. 
+Studio sessions and any breakout room discussions will not be recorded. Lectures will be recorded, and recordings will be made available on the [course syllabus page.](/calendar) 
 
 If you miss a lecture, you can complete a make-up assignment by filling out [this form](#) to earn the participation point. 
 
