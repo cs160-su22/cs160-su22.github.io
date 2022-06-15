@@ -96,8 +96,6 @@ If you are not in the Disabled Students Program and would like to request an ass
 
 If you require an extension longer than 4 days, we may need to check in with you, and work out a plan to keep you on course for success in the class.
 
-The DSP point of contact for this course is Shm Garanganao Almeda - (shm.almeda@berkeley.edu). Feel free to reach out if you have any questions or concerns, or to discuss how we can best support your success. Our goal is to make the course as accessible and supportive as possible!
-
 
 ## Dropping A Quiz Grade
 
