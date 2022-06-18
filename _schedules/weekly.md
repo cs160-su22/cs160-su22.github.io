@@ -10,6 +10,15 @@ timeline:
   - '12:30 PM'
   - '1:00 PM'
   - '1:30 PM'
+  - '2:00 PM'
+  - '2:30 PM'
+  - '3:00 PM'
+  - '3:30 PM'
+  - '4:00 PM'
+  - '4:30 PM'
+  - '5:00 PM'
+  - '5:30 PM'
+  - '6:00 PM'
 
 schedule:
   - name: Monday
@@ -19,10 +28,10 @@ schedule:
         end: 12:30 PM
         location: Jacobs 310
         color: purple
-      - name: Topic A Discussion Section
+      - name: Section
         start: 5:00 PM
         end: 6:00 PM
-        location: TA's Zoom (see Google Calendar)
+        location: TA Zoom (see gCal)
         color: blue
   - name: Tuesday
     events: 
@@ -30,15 +39,15 @@ schedule:
         start: 11:00 AM
         end: 12:30 PM
         location: Jacobs 310
-      - name: Topic A Discussion Section
+      - name: Section
         start: 10:00 AM
-        end: 11:00 PM
-        location: TA's Zoom (see Google Calendar)
+        end: 11:00 AM
+        location: TA Zoom (see gCal)
         color: blue
-      - name: Topic A Discussion Section
+      - name: Section
         start: 4:00 PM
         end: 5:00 PM
-        location: TA's Zoom (see Google Calendar)
+        location: TA Zoom (see gCal)
         color: blue
   - name: Wednesday
     events: 
@@ -46,15 +55,15 @@ schedule:
         start: 11:00 AM
         end: 12:30 PM
         location: Zoom
-      - name: Topic A Discussion Section
+      - name: Section
         start: 2:00 PM
         end: 3:00 PM
-        location: TA's Zoom (see Google Calendar)
+        location: TA Zoom (see gCal)
         color: blue
-      - name: Topic B Discussion Section
+      - name: Section
         start: 5:00 PM
         end: 6:00 PM
-        location: TA's Zoom (see Google Calendar)
+        location: TA Zoom (see gCal)
         color: blue
   - name: Thursday
     events: 
@@ -62,20 +71,21 @@ schedule:
         start: 11:00 AM
         end: 12:30 PM
         location: Jacobs 310  
-      - name: Topic B Discussion Section
+      - name: Section
         start: 10:00 AM
         end: 11:00 AM
-        location: TA's Zoom (see Google Calendar)
+        location: TA Zoom (see gCal)
         color: blue
-      - name: Topic B Discussion Section
+      - name: Section
         start: 2:00 PM
         end: 3:00 PM
-        location: TA's Zoom (see Google Calendar)
+        location: TA Zoom (see gCal)
         color: blue
   - name: Friday
-    - name: Topic B Discussion Section
+    events:
+      - name: Section
         start: 5:00 PM
         end: 6:00 PM
-        location: TA's Zoom (see Google Calendar)
+        location: TA Zoom (see gCal)
         color: blue
 ---
