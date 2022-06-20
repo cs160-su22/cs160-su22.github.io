@@ -1,11 +1,11 @@
 ---
 name: Diyah Mettupalli
 role: Instructor
-#email: 
+#email: diyahmettupalli@berkeley.edu
 #website: 
-#pronouns: 
+#pronouns: she/her
 #section: hm
-photo: default.png
+photo: diyah.jpg
 ---
 
 [Schedule an appointment](#){: .btn .btn-outline }
