@@ -13,15 +13,15 @@ description: >-
 
 ---
 
+## Course Format
 
-### **Curriculum and practice**: 
+#### Curriculum and practice
 
 For the first five weeks, **lecture** occurs three days a week (Tuesday, Wednesday, and Thursday), studio once a week (Mondays during lecture), and section occurs twice a week. While lectures and studio focus on introducing core HCI concepts, sections reinforce these concepts and help students improve technical skills. Outside of class, students will work individually or in pairs on weekly projects. Weekly projects allow students to engage in the design cycle and develop technical skills.
 
-### **Final project**: 
+#### Final project
 
 Using design methodologies and technical skills learned during the first five weeks, students will work in groups for the last three weeks to ideate, prototype and implement a final project. Students will choose their own design methodologies and project topic within a theme. During the last three weeks, final project studio will take the place of lecture and studio. Final project studio provides in-class time for teams to work together and receive feedback from course staff.
-
 
 ## Weekly Format
 
@@ -72,19 +72,19 @@ At the end of the course, excellent participation will be taken into account for
 
 Final grades will be determined with the following breakdown:
 
-**30\% Weekly projects**: The weekly projects each consist of Design Cycle Checkpoints. Each checkpoint will be graded independently with a detailed rubric. These rubrics will be released with the grades. All submissions should adhere to the guidelines for successful submissions.
+**30 \% Weekly projects**: The weekly projects each consist of Design Cycle Checkpoints. Each checkpoint will be graded independently with a detailed rubric. These rubrics will be released with the grades. All submissions should adhere to the guidelines for successful submissions.
 
-**30\% Final project**: Final projects take place during the last three weeks of class in assigned groups of 4-6. For grading, we will take into account several aspects of the final project process: teamwork and participation, design checkpoints, observation/need-finding, evaluation, implementation, and deliverables (e.g., presentation, poster, article).
+**30 \% Final project**: Final projects take place during the last three weeks of class in assigned groups of 4-6. For grading, we will take into account several aspects of the final project process: teamwork and participation, design checkpoints, observation/need-finding, evaluation, implementation, and deliverables (e.g., presentation, poster, article).
 
-**20\% Participation**: Your participation grade is determined based on your attendance, preparation, and participation in class and studio, and the feedback you provide on your peers’ designs. It is also determined by your activity on the course Slack. Studio takes place on Mondays, then Mon-Thurs for the last 3 weeks of class, and you will provide feedback on peers’ designs.
+**20 \% Participation**: Your participation grade is determined based on your attendance, preparation, and participation in class and studio, and the feedback you provide on your peers’ designs. It is also determined by your activity on the course Slack. Studio takes place on Mondays, then Mon-Thurs for the last 3 weeks of class, and you will provide feedback on peers’ designs.
 
-**20\% Assessments**: Every week for the first 6 weeks, there will be a quiz. The quiz will cover content throughout the week, so we encourage you to complete it progressively during the week instead of waiting until the end. It will be multiple choice and short answer, and will cover lecture material (including breakout room prompts), readings from any prior week, and readings from the current week. There is no midterm or final exam.
+**20 \% Assessments**: Every week for the first 6 weeks, there will be a quiz. The quiz will cover content throughout the week, so we encourage you to complete it progressively during the week instead of waiting until the end. It will be multiple choice and short answer, and will cover lecture material (including breakout room prompts), readings from any prior week, and readings from the current week. There is no midterm or final exam.
 
 ## Late Policies
 
 This is an accelerated 8-week course, and assignments tend to be accumulative -- it can be easy to fall behind. Please plan accordingly and communicate with course staff before you get overwhelmed - we are here to help you succeed! 
 
-Unexcused late submissions incur a 20% penalty per day they are late. 
+Unexcused late submissions incur a 20 \% penalty per day they are late. 
 
 Students each have **5 Slip Days** they can use on their assignments. These are meant to be used for extenuating circumstances. When submitting an assignment late, please mention in the **Submission Comments** on bCourses if you are using a slip day or if your late submission is otherwise excused. 
 On team assignments, all team members will lose a slip day(s) for late submissions.
@@ -92,7 +92,8 @@ On team assignments, all team members will lose a slip day(s) for late submissio
 In order to efficiently process **extension requests**, we are using the following Google form: [TO BE ANNOUNCED](). 
 If you would like to request an extension on an assignment, please fill out this form before the due date, as this allows us to easily evaluate and make a decision on your request.
 
-If you are not in the Disabled Students Program and would like to request an assignment extension (i.e. under extenuating circumstances) - please include as much information and/or documentation as possible to help us understand the nature of your request. If you are in the Disabled Students Program, and we have received a copy of your DSP accommodations letter, timely requests for extensions <= 4 days are automatically approved.
+If you are not in the Disabled Students Program and would like to request an assignment extension (i.e. under extenuating circumstances) - please include as much information and/or documentation as possible to help us understand the nature of your request. If you are in the Disabled Students Program, and we have received a copy of your 
+ accommodations letter, timely requests for extensions <= 4 days are automatically approved.
 
 If you require an extension longer than 4 days, we may need to check in with you, and work out a plan to keep you on course for success in the class.
 
