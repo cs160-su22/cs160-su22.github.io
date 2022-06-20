@@ -1,7 +1,8 @@
 ---
 name: Salih Berk Dincer
 role: Reader
-#email: me@example.com
+email: berkdincer@berkeley.edu
 #website: https://kevinl.info
-photo: default.png
+photo: salih.jpg
 ---
+I am a designer and engineer based in Berkeley. I enjoy fusing design, media, and science to redefine the interaction between humans, the environment, and computers.

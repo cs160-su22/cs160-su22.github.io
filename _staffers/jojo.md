@@ -1,7 +1,8 @@
 ---
 name: Joelle Walley
 role: Reader
-#email: me@example.com
+email: jojowalley@berkeley.edu
 #website: https://kevinl.info
-photo: default.png
+photo: jojo.jpg
 ---
+Hi everyone!! I'm from Los Angeles, California. Some of my hobbies include playing video games, taking my doggy outside to the dog parks and for nice walks, working out & community organizing. Excited to work with you all this summer :)
