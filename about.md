@@ -35,7 +35,7 @@ We will have lectures on Monday, Tuesday, Wednesday, and Thursday from **11am-12
 
 Lectures will be recorded, and recordings will be made available on the [course syllabus page.](/calendar) 
 
-If you miss a lecture, you can complete a make-up assignment by watching the recording and filling out [this form](#).
+If you miss a lecture, you can complete a make-up assignment by watching the recording and filling out [this form](https://forms.gle/KXFM4Jbh46ui8hGA6).
 
 #### Discussion Sections
 
@@ -51,7 +51,7 @@ You are expected to attend all lectures and all studios. Everything that we say 
 After lectures or studio, you may be expected to complete an assignment that will be simple to complete for those in attendance. 
 Studio sessions and any breakout room discussions will not be recorded. Lectures will be recorded, and recordings will be made available on the [course syllabus page.](/calendar) 
 
-If you miss a lecture, you can complete a make-up assignment by watching the recording and filling out [this form](#).
+If you miss a lecture, you can complete a make-up assignment by watching the recording and filling out [this form](https://forms.gle/KXFM4Jbh46ui8hGA6).
 
 Sections are not required, but we anticipate in many cases they will be extremely useful to your success in the course and beyond. Make sure you do not have conflicts with at least one section time for each topic so you can get timely help preparing for assignments and practicing skills.
 
