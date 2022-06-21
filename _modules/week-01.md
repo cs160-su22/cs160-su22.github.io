@@ -28,7 +28,7 @@ THU 6/23
 
 FRI 6/24
 : **Studio**{: .label .label-red } [**Studio 1**](#)
-: **Project 1**{: .label .label-yellow} 1.4 Hand-Drawn Wireframe (bCourses + Slack)
+: **Project 1**{: .label .label-yellow} 1.3 Peer Critique of Sketches (Slack) 
 : **Reading**{: .label .label-green } [How to Give and Receive Criticism](https://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)
 : **Quiz 1 due**{: .label }
 
