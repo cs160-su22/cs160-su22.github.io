@@ -11,7 +11,7 @@ TUE 6/21
   : _CW: The content of this reading may be challenging or triggering._
 
 WED 6/22
-: **Lecture**{: .label .label-purple }[Lecture 2](#)
+: **Remote Lecture**{: .label .label-purple }[Lecture 2](#)
   : [Slides](#)
 : **Project 1**{: .label .label-yellow} [1.1 Mood Board (bCourses + Slack)](https://docs.google.com/document/d/1Mf5QVn8_z3vfibqNRhxOGoPPZRq6AQPPeuAg2zpdQNU/edit?usp=sharing)
 : **Reading**{: .label .label-green } [The Design of Everyday Things (Chapter 1)](https://drive.google.com/file/d/1UhJckNhGz-R50ztGZC8z9W32tIlGGP8B/view?usp=sharing)
@@ -19,7 +19,7 @@ WED 6/22
 
 
 THU 6/23
-: **Remote Lecture**{: .label .label-purple }[Lecture 3](#)
+: **Lecture**{: .label .label-purple }[Lecture 3](#)
    : [Slides](#)
 : **Project 1**{: .label .label-yellow} [1.2 Interaction Sketches (bCourses + Slack)](https://docs.google.com/document/d/1Mf5QVn8_z3vfibqNRhxOGoPPZRq6AQPPeuAg2zpdQNU/edit?usp=sharing)
 : **Reading**{: .label .label-green } [Affordances and Metaphors](https://www.joelonsoftware.com/2000/04/18/affordances-and-metaphors/)
