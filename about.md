@@ -89,7 +89,8 @@ Unexcused late submissions incur a 20% penalty per day they are late.
 Students each have **5 Slip Days** they can use on their assignments. These are meant to be used for extenuating circumstances. When submitting an assignment late, please mention in the **Submission Comments** on bCourses if you are using a slip day or if your late submission is otherwise excused. 
 On team assignments, all team members will lose a slip day(s) for late submissions.
 
-In order to efficiently process **extension requests**, we are using the following Google form: [TO BE ANNOUNCED](). 
+### Extension Requests
+In order to efficiently process **extension requests**, we are using [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSehgoiu_Uuzm_ciWzkLd1bLC2fIxAarXxoeAPWik6zUUC2r9A/viewform?usp=sf_link). 
 If you would like to request an extension on an assignment, please fill out this form before the due date, as this allows us to easily evaluate and make a decision on your request.
 
 If you are not in the Disabled Students Program and would like to request an assignment extension (i.e. under extenuating circumstances) - please include as much information and/or documentation as possible to help us understand the nature of your request. If you are in the Disabled Students Program, and we have received a copy of your 
