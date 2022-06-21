@@ -4,13 +4,13 @@ title: Week 2 - User Studies + Prototyping
 
 MON 6/27
 : **Studio**{: .label .label-red } [**Studio 2**](#)
-: **Project 1**{: .label .label-yellow} 1.4 Hand-Drawn Wireframe (bCourses + Slack)
+: **Project 1**{: .label .label-yellow} [1.4 Hand-Drawn Wireframe (bCourses + Slack)](https://docs.google.com/document/d/1Mf5QVn8_z3vfibqNRhxOGoPPZRq6AQPPeuAg2zpdQNU/edit?usp=sharing)
 : **Reading**{: .label .label-green } [How to Conduct a Heuristic Evaluation](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/)
 : **Reading**{: .label .label-green } [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
 
 TUE 6/28
-: **Project 1**{: .label .label-yellow} 1.5 Interactive Prototype
+: **Project 1**{: .label .label-yellow} [1.5 Interactive Prototype](https://docs.google.com/document/d/1Mf5QVn8_z3vfibqNRhxOGoPPZRq6AQPPeuAg2zpdQNU/edit?usp=sharing)
 : **Lecture**{: .label .label-purple }[Lecture 4](#)
   : [Slides](#)
 : **Reading**{: .label .label-green }[10 Cognitive Biases to Avoid in User Research](https://uxdesign.cc/10-cognitive-biases-to-avoid-in-user-research-and-how-to-avoid-them-993aa397c8c6)
@@ -18,7 +18,7 @@ TUE 6/28
 WED 6/29
 : **Remote Lecture**{: .label .label-purple }[Lecture 5](#)
    : [Slides](#)
-: **Project 1**{: .label .label-yellow} Final Report
+: **Project 1**{: .label .label-yellow} [Final Report](https://docs.google.com/document/d/1Mf5QVn8_z3vfibqNRhxOGoPPZRq6AQPPeuAg2zpdQNU/edit?usp=sharing)
 : **Reading**{: .label .label-green }[Embracing 4 Tensions in HCI Research with Marginalized People _**(Read to Section 2.5)**_](https://www.smunson.com/portfolio/projects/Liang-HCIRwithMarginalizedPeople-Preprint.pdf)
 : **Reading**{: .label .label-green }[The Black Experience in Graphic Design: 1968 and 2020](https://letterformarchive.org/news/view/the-black-experience-in-graphic-design-1968-and-2020)
 
