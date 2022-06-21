@@ -5,7 +5,7 @@ subtitle: (In observance of Juneteenth, this week starts on Tuesday, and Studio 
 
 TUE 6/21
 : **Lecture**{: .label .label-purple }[Introduction](#)
-  : [Slides](#)
+  : [Slides](https://docs.google.com/presentation/d/1PXm752w9YOqAA-VreXNPp-oiikC9ajAUP2Xu-hxfPLg/edit?usp=sharing)
 : **Reading**{: .label .label-green }[Being Good at Doing Good](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45295.pdf)
 : **<bold>Reading</bold>**{: .label .label-green }[<normal>A Hundred Racist Designs </normal>_(Pick 10)_](https://otlhogilegordon.medium.com/a-hundred-racist-designs-ff713cd5aa42)
   : _CW: The content of this reading may be challenging or triggering._
