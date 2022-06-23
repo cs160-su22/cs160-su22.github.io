@@ -27,7 +27,7 @@ schedule:
         start: 11:00 AM
         end: 12:30 PM
         location: Jacobs 310
-        color: #EDF4ED
+        color: purple
       - name: Section A
         start: 5:00 PM
         end: 6:00 PM
