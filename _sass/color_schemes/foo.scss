@@ -1,9 +1,9 @@
 //
 // Typography
 //
-
-$body-font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-  Roboto, "Helvetica Neue", Archivo, sans-serif !default;
+@import 'https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap';
+$body-font-family: system-ui, -apple-system, BlinkMacSystemFont, Archivo, "Segoe UI",
+  Roboto, "Helvetica Neue", sans-serif !default;
 $mono-font-family: "SFMono-Regular", Menlo, Consolas, Monospace !default;
 $root-font-size: 16px !default; // Base font-size for rems
 $body-line-height: 1.4 !default;
@@ -31,6 +31,13 @@ $font-size-10-sm: 48px !default;
 //
 // Colors
 //
+
+$aqua-dark: #45A89A !default;
+$aqua-light: #AED5C6 !default;
+$off-white: #EDF4ED !default;
+$pink-light: #D8829D !default;
+$pink-dark: #C94277 !default;
+$off-black: #252323 !default;
 
 $white: #fff !default;
 
