@@ -35,11 +35,13 @@ We will have lectures on Monday, Tuesday, Wednesday, and Thursday from **11am-12
 
 Lectures will be recorded, and recordings will be made available on the [course syllabus page.](/calendar) 
 
-If you miss a lecture, you can complete a make-up assignment by watching the recording and filling out [this form](https://forms.gle/KXFM4Jbh46ui8hGA6).
+If you miss a lecture, you can complete a make-up assignment by watching the recording and filling out [this form](https://forms.gle/KXFM4Jbh46ui8hGA6). Lecture slides can be found in the Lectures subfolder of the student-facing Drive [folder](https://drive.google.com/drive/folders/1LBlinE6L-9RjMbzpBmlqucQLgzWPj7qV?usp=sharing).
 
 #### Discussion Sections
 
 Each week, we will cover 2 topics. We will offer a total of 8 sections every week, allotting 4 sections per topic. Discussion section attendance is not counted towards your grade, however - students should try to attend **1 section for each topic** to get the most of the concepts taught in these offerings and be prepared for upcoming assignments. 
+
+Section slide PDFs can be found in the Section subfolder of the student-facing Drive [folder](https://drive.google.com/drive/folders/1LBlinE6L-9RjMbzpBmlqucQLgzWPj7qV?usp=sharing).
 
 ## Office Hours
 
