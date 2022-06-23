@@ -91,6 +91,8 @@
     .location {
       @extend .fs-2;
     }
+    
+    @import "../color_schemes/foo";
 
     &.lecture {
       background-color: $aqua-dark;
