@@ -26,14 +26,14 @@ WED 6/29
 THU 6/30
 : **Lecture**{: .label .label-purple }[Lecture 6](#)
   : [Slides](#)
-: **Project 2**{: .label .label-yellow} 2.1 Initial Task Analysis
-: **Project 2**{: .label .label-yellow} 2.2 Observation Plan
+: **Project 2**{: .label .label-yellow} [2.1 Initial Task Analysis](https://docs.google.com/document/d/1jBpAAl-n5CD9RQ80euJtm-HOQG5-b4oIVtJtV0JLbHU/edit#heading=h.nemox7i8xxxw)
+: **Project 2**{: .label .label-yellow} [2.2 Observation Plan](https://docs.google.com/document/d/1jBpAAl-n5CD9RQ80euJtm-HOQG5-b4oIVtJtV0JLbHU/edit#heading=h.5k6ilhj1egw7)
 
 : **Reading**{: .label .label-green } [Principles of Contextual Inquiry](https://drive.google.com/file/d/1KomuKGYFFKYJ3WbEHtGIWnndhooajf0D/view?usp=sharing)
 
 FRI 7/1
 : **Quiz 2 due**{: .label }
-: **Project 2**{: .label .label-yellow} 2.3 Recruiting Message
+: **Project 2**{: .label .label-yellow} [2.3 Recruiting Message](https://docs.google.com/document/d/1jBpAAl-n5CD9RQ80euJtm-HOQG5-b4oIVtJtV0JLbHU/edit#heading=h.lzpwb47pnn3j)
 : **Project 3**{: .label .label-yellow} 3.1 Task 1A and 1B
 
 **Resources**
