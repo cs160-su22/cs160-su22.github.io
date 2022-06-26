@@ -4,23 +4,23 @@ subtitle: (In observance of Juneteenth, this week starts on Tuesday, and Studio 
 ---
 
 TUE 6/21
-: **Lecture**{: .label .label-purple }[Introduction](#)
+: **Lecture**{: .label .label-purple }[Introduction](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
   : [Slides](https://docs.google.com/presentation/d/1PXm752w9YOqAA-VreXNPp-oiikC9ajAUP2Xu-hxfPLg/edit?usp=sharing)
 : **Reading**{: .label .label-green }[Being Good at Doing Good](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45295.pdf)
 : **<bold>Reading</bold>**{: .label .label-green }[<normal>A Hundred Racist Designs </normal>_(Pick 10)_](https://otlhogilegordon.medium.com/a-hundred-racist-designs-ff713cd5aa42)
   : _CW: The content of this reading may be challenging or triggering._
 
 WED 6/22
-: **Remote Lecture**{: .label .label-purple }[Lecture 2](#)
-  : [Slides](#)
+: **Remote Lecture**{: .label .label-purple }[Lecture 2](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
+  : [Slides](https://docs.google.com/presentation/d/1LOjXjI0mxy6FMH1540gt5vcNdUzELuNyzGWRWctjj3E/edit?usp=sharing)
 : **Project 1**{: .label .label-yellow} [1.1 Mood Board (bCourses + Slack)](https://docs.google.com/document/d/1Mf5QVn8_z3vfibqNRhxOGoPPZRq6AQPPeuAg2zpdQNU/edit?usp=sharing)
 : **Reading**{: .label .label-green } [The Design of Everyday Things (Chapter 1)](https://drive.google.com/file/d/1UhJckNhGz-R50ztGZC8z9W32tIlGGP8B/view?usp=sharing)
 
 
 
 THU 6/23
-: **Lecture**{: .label .label-purple }[Lecture 3](#)
-   : [Slides](#)
+: **Lecture**{: .label .label-purple }[Lecture 3](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
+   : [Slides](https://docs.google.com/presentation/d/1apb4J1XgWT3uJEHGkMTF99ddPiHKeUtow8IxYYQmKO8/edit?usp=sharing)
 : **Project 1**{: .label .label-yellow} [1.2 Interaction Sketches (bCourses + Slack)](https://docs.google.com/document/d/1Mf5QVn8_z3vfibqNRhxOGoPPZRq6AQPPeuAg2zpdQNU/edit?usp=sharing)
 : **Reading**{: .label .label-green } [Affordances and Metaphors](https://www.joelonsoftware.com/2000/04/18/affordances-and-metaphors/)
 

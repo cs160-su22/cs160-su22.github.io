@@ -91,16 +91,23 @@
     .location {
       @extend .fs-2;
     }
+    
+    @import "../color_schemes/foo";
 
     &.lecture {
-      background-color: $grey-dk-000;
+      background-color: $aqua-dark;
     }
-
     &.section {
       background-color: $purple-000;
     }
+    &.section-a {
+      background-color: $pink-dark;
+    }
+    &.section-b {
+      background-color: $pink-light;
+    }
     &.studio {
-      background-color: $red-000;
+      background-color: $aqua-light;
     }
 
     &.office-hours {

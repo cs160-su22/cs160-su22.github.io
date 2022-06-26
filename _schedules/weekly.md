@@ -28,7 +28,7 @@ schedule:
         end: 12:30 PM
         location: Jacobs 310
         color: purple
-      - name: Section
+      - name: Section A
         start: 5:00 PM
         end: 6:00 PM
         location: TA Zoom (see gCal)
@@ -39,12 +39,12 @@ schedule:
         start: 11:00 AM
         end: 12:30 PM
         location: Jacobs 310
-      - name: Section
+      - name: Section A
         start: 10:00 AM
         end: 11:00 AM
         location: TA Zoom (see gCal)
         color: blue
-      - name: Section
+      - name: Section A
         start: 4:00 PM
         end: 5:00 PM
         location: TA Zoom (see gCal)
@@ -55,12 +55,12 @@ schedule:
         start: 11:00 AM
         end: 12:30 PM
         location: Zoom
-      - name: Section
+      - name: Section A
         start: 2:00 PM
         end: 3:00 PM
         location: TA Zoom (see gCal)
         color: blue
-      - name: Section
+      - name: Section B
         start: 5:00 PM
         end: 6:00 PM
         location: TA Zoom (see gCal)
@@ -71,19 +71,19 @@ schedule:
         start: 11:00 AM
         end: 12:30 PM
         location: Jacobs 310  
-      - name: Section
+      - name: Section B
         start: 10:00 AM
         end: 11:00 AM
         location: TA Zoom (see gCal)
         color: blue
-      - name: Section
+      - name: Section B
         start: 2:00 PM
         end: 3:00 PM
         location: TA Zoom (see gCal)
         color: blue
   - name: Friday
     events:
-      - name: Section
+      - name: Section B
         start: 5:00 PM
         end: 6:00 PM
         location: TA Zoom (see gCal)
