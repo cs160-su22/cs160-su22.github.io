@@ -98,3 +98,19 @@
     }
   }
 }
+@import "../color_schemes/foo";
+.label-lecture {
+  background-color: $aqua-med;
+}
+.label-studio {
+  background-color: $aqua-dark;
+}
+.label-reading {
+  background-color: $aqua-light;
+}
+.label-quiz {
+  background-color: $pink-dark;
+}
+.label-project {
+  background-color: $pink-light;
+}
