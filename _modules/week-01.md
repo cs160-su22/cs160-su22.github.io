@@ -27,7 +27,7 @@ THU 6/23
 
 
 FRI 6/24
-: **<bold>Studio</bold>**{: .label .label-studio } [**Studio 1**](#)
+: **<bold>Studio</bold>**{: .label .label-studio } [**Studio 1: Intros & Peer Critique**](#)
 : **<bold>Project 1</bold>**{: .label .label-project} [1.3 Peer Critique of Sketches (Slack)](https://docs.google.com/document/d/1Mf5QVn8_z3vfibqNRhxOGoPPZRq6AQPPeuAg2zpdQNU/edit?usp=sharing)
 : **<bold>Reading</bold>**{: .label .label-reading } [How to Give and Receive Criticism](https://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)
 : **<bold>Quiz 1 Due</bold>**{: .label .label-quiz }
