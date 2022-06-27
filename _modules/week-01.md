@@ -13,7 +13,7 @@ TUE 6/21
 WED 6/22
 : **<bold>Remote Lecture</bold>**{: .label .label-lecture }[Lecture 2](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
   : [Slides](https://docs.google.com/presentation/d/1LOjXjI0mxy6FMH1540gt5vcNdUzELuNyzGWRWctjj3E/edit?usp=sharing)
-: **<bold>Project 1</bold>**{: .label .label-project} [1.1 Mood Board (bCourses + Slack)](https://docs.google.com/document/d/1Mf5QVn8_z3vfibqNRhxOGoPPZRq6AQPPeuAg2zpdQNU/edit?usp=sharing)
+: **<bold>Project 1</bold>**{: .label .label-project} [1.1 Mood Board (bCourses + Slack) Due](https://docs.google.com/document/d/1Mf5QVn8_z3vfibqNRhxOGoPPZRq6AQPPeuAg2zpdQNU/edit?usp=sharing)
 : **<bold>Reading</bold>**{: .label .label-reading } [The Design of Everyday Things (Chapter 1)](https://drive.google.com/file/d/1UhJckNhGz-R50ztGZC8z9W32tIlGGP8B/view?usp=sharing)
 
 
@@ -21,14 +21,14 @@ WED 6/22
 THU 6/23
 : **<bold>Lecture</bold>**{: .label .label-lecture }[Lecture 3](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
    : [Slides](https://docs.google.com/presentation/d/1apb4J1XgWT3uJEHGkMTF99ddPiHKeUtow8IxYYQmKO8/edit?usp=sharing)
-: **<bold>Project 1</bold>**{: .label .label-project} [1.2 Interaction Sketches (bCourses + Slack)](https://docs.google.com/document/d/1Mf5QVn8_z3vfibqNRhxOGoPPZRq6AQPPeuAg2zpdQNU/edit?usp=sharing)
+: **<bold>Project 1</bold>**{: .label .label-project} [1.2 Interaction Sketches (bCourses + Slack) Due](https://docs.google.com/document/d/1Mf5QVn8_z3vfibqNRhxOGoPPZRq6AQPPeuAg2zpdQNU/edit?usp=sharing)
 : **<bold>Reading</bold>**{: .label .label-reading } [Affordances and Metaphors](https://www.joelonsoftware.com/2000/04/18/affordances-and-metaphors/)
 
 
 
 FRI 6/24
 : **<bold>Studio</bold>**{: .label .label-studio } [**Studio 1: Intros & Peer Critique**](#)
-: **<bold>Project 1</bold>**{: .label .label-project} [1.3 Peer Critique of Sketches (Slack)](https://docs.google.com/document/d/1Mf5QVn8_z3vfibqNRhxOGoPPZRq6AQPPeuAg2zpdQNU/edit?usp=sharing)
+: **<bold>Project 1</bold>**{: .label .label-project} [1.3 Peer Critique of Sketches (Slack) Due](https://docs.google.com/document/d/1Mf5QVn8_z3vfibqNRhxOGoPPZRq6AQPPeuAg2zpdQNU/edit?usp=sharing)
 : **<bold>Reading</bold>**{: .label .label-reading } [How to Give and Receive Criticism](https://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)
 : **<bold>Quiz 1 Due</bold>**{: .label .label-quiz }
 
