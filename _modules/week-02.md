@@ -3,7 +3,7 @@ title: Week 2 - User Studies + Prototyping
 ---
 
 MON 6/27
-: **<bold>Studio</bold>**{: .label .label-studio } [**Studio 2**](#)
+: **<bold>Studio</bold>**{: .label .label-studio } [**Studio 2: Project 1 Workshop & Project 2 Partners**](#)
 : **<bold>Project 1</bold>**{: .label .label-project} [1.4 Hand-Drawn Wireframe (bCourses + Slack)](https://docs.google.com/document/d/1Mf5QVn8_z3vfibqNRhxOGoPPZRq6AQPPeuAg2zpdQNU/edit?usp=sharing)
 : **<bold>Reading</bold>**{: .label .label-reading } [How to Conduct a Heuristic Evaluation](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/)
 : **<bold>Reading</bold>**{: .label .label-reading } [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
