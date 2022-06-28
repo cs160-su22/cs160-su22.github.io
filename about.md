@@ -86,17 +86,16 @@ Final grades will be determined with the following breakdown:
 
 This is an accelerated 8-week course, and assignments tend to be accumulative -- it can be easy to fall behind. Please plan accordingly and communicate with course staff before you get overwhelmed - we are here to help you succeed! 
 
-Unexcused late submissions incur a 20% penalty per day they are late. 
+Unexcused late submissions incur a 25% penalty per day they are late. 
 
-Students each have **5 Slip Days** they can use on their assignments. These are meant to be used for extenuating circumstances. When submitting an assignment late, please mention in the **Submission Comments** on bCourses if you are using a slip day or if your late submission is otherwise excused. 
+Students each have **5 Slip Days** they can use on their assignments. These are meant to be used for extenuating circumstances. When submitting an assignment late, please fill out [this Slip Day Form](https://forms.gle/oSWKktPNurqxpSMR7). If you do NOT submit a slip day form, we will simply assume you want to save them for later, and deduct points for tardiness accordingly.
 On team assignments, all team members will lose a slip day(s) for late submissions.
 
 ### Extension Requests
-In order to efficiently process **extension requests**, we are using [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSehgoiu_Uuzm_ciWzkLd1bLC2fIxAarXxoeAPWik6zUUC2r9A/viewform?usp=sf_link). 
+In order to efficiently process **extension requests**, we are using [this Extension Request Form](https://docs.google.com/forms/d/e/1FAIpQLSehgoiu_Uuzm_ciWzkLd1bLC2fIxAarXxoeAPWik6zUUC2r9A/viewform?usp=sf_link). 
 If you would like to request an extension on an assignment, please fill out this form before the due date, as this allows us to easily evaluate and make a decision on your request.
 
-If you are not in the Disabled Students Program and would like to request an assignment extension (i.e. under extenuating circumstances) - please include as much information and/or documentation as possible to help us understand the nature of your request. If you are in the Disabled Students Program, and we have received a copy of your 
- accommodations letter, timely requests for extensions <= 4 days are automatically approved.
+If you are not in the Disabled Students Program and would like to request an assignment extension (i.e. under extenuating circumstances) - please include as much information and/or documentation as possible to help us understand the nature of your request. If you are in the Disabled Students Program, and we have received a copy of your accommodations letter, timely requests for extensions <= 4 days are automatically approved.
 
 If you require an extension longer than 4 days, we may need to check in with you, and work out a plan to keep you on course for success in the class.
 
@@ -131,7 +130,10 @@ In this course, we encourage students to learn and draw inspiration from each ot
 
 For the design portion of weekly projects (typically cycles I/II) and the final project we encourage you to draw inspiration from existing work and seek feedback on your designs. Be sure to cite your inspiration sources and feedback partners. When drawing inspiration from existing designs, focus on elements you want to incorporate (e.g., bold colors, low contrast, sharp corners) rather than copying the design as a whole. One rule of thumb is that you should be able to justify how your design differs significantly from existing examples.
 
-For the implementation portions of weekly projects, write your own code. It’s important to us that each of you know how to assemble user interfaces on your own so you can be productive contributors to your group. As such, you may speak with other students about their assignments, and can see parts of their code, but no copy and paste is tolerated. Cite any resources from which you borrow source code or algorithmic ideas to your project, including Stack Overflow and external GitHub projects, as a comment adjacent to the code with a URL to the source and a description of what you reused.
+Utilize only resources and assets (e.g. images) that you have permission to utilize, and that you properly attribute in your Design Reports. The [``#resources-and-links``](https://cs160su22.slack.com/archives/C03LZ4FTWKT) channel in Slack is a great place to find and share quality sources for images, icons, etc. 
+
+For the implementation portions of weekly projects, write your own code. It’s important to us that each of you know how to assemble user interfaces on your own so you can be productive contributors to your group. As such, you may speak with other students about their assignments, and can see parts of their code, but no copy and paste is tolerated. Cite any resources from which you borrow source code, layout code, or algorithmic ideas to your project, including Stack Overflow and external GitHub projects, as a comment adjacent to the code with a URL to the source and a description of what you reused.
+
 
 ### Quizzes
 
