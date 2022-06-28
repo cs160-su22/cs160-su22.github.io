@@ -95,23 +95,19 @@
     @import "../color_schemes/foo";
 
     &.lecture {
+      background-color: $aqua-med;
+    }
+    &.studio {
       background-color: $aqua-dark;
     }
-    &.section {
-      background-color: $purple-000;
+    &.lecture-party {
+      background-color: $aqua-light;
     }
     &.section-a {
       background-color: $pink-dark;
     }
     &.section-b {
       background-color: $pink-light;
-    }
-    &.studio {
-      background-color: $aqua-light;
-    }
-
-    &.office-hours {
-      background-color: $blue-000;
     }
   }
 }

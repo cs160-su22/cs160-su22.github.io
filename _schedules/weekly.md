@@ -19,6 +19,11 @@ timeline:
   - '5:00 PM'
   - '5:30 PM'
   - '6:00 PM'
+  - '6:30 PM'
+  - '7:00 PM'
+  - '7:30 PM'
+  - '8:00 PM'
+  - '8:30 PM'
 
 schedule:
   - name: Monday
@@ -27,12 +32,10 @@ schedule:
         start: 11:00 AM
         end: 12:30 PM
         location: Jacobs 310
-        color: purple
       - name: Section A
         start: 5:00 PM
         end: 6:00 PM
         location: TA Zoom (see gCal)
-        color: blue
   - name: Tuesday
     events: 
       - name: Lecture
@@ -43,12 +46,14 @@ schedule:
         start: 10:00 AM
         end: 11:00 AM
         location: TA Zoom (see gCal)
-        color: blue
       - name: Section A
         start: 4:00 PM
         end: 5:00 PM
         location: TA Zoom (see gCal)
-        color: blue
+      - name: Lecture Party
+        start: 7:00 PM
+        end: 8:30 PM
+        location: TA Zoom (see gCal)
   - name: Wednesday
     events: 
       - name: Lecture
@@ -59,12 +64,14 @@ schedule:
         start: 2:00 PM
         end: 3:00 PM
         location: TA Zoom (see gCal)
-        color: blue
       - name: Section B
         start: 5:00 PM
         end: 6:00 PM
         location: TA Zoom (see gCal)
-        color: blue
+      - name: Lecture Party
+        start: 7:00 PM
+        end: 8:30 PM
+        location: TA Zoom (see gCal)
   - name: Thursday
     events: 
       - name: Lecture
@@ -75,17 +82,18 @@ schedule:
         start: 10:00 AM
         end: 11:00 AM
         location: TA Zoom (see gCal)
-        color: blue
       - name: Section B
         start: 2:00 PM
         end: 3:00 PM
         location: TA Zoom (see gCal)
-        color: blue
+      - name: Lecture Party
+        start: 7:00 PM
+        end: 8:30 PM
+        location: TA Zoom (see gCal)
   - name: Friday
     events:
       - name: Section B
         start: 5:00 PM
         end: 6:00 PM
         location: TA Zoom (see gCal)
-        color: blue
 ---
