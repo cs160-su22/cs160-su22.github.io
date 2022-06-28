@@ -14,8 +14,8 @@ https://webdesign.tutsplus.com/articles/all-about-grid-systems--webdesign-14471)
 WED 7/6
 : **<bold>Remote Lecture</bold>**{: .label .label-lecture }[Lecture 8](#)
    : [Slides](#)
-: **<bold>Project 2</bold>**{: .label .label-project} 2.5 Concept & Low-Fidelity Sketches Due
-: **<bold>Project 3</bold>**{: .label .label-project} 2-3 Additional Tasks, Final Report Due
+: **<bold>Project 2</bold>**{: .label .label-project} [2.5 Concept & Low-Fidelity Sketches Due]()
+: **<bold>Project 3</bold>**{: .label .label-project} [2-3 Additional Tasks, Final Report Due](https://docs.google.com/document/d/1J-9zUI_ftJnFNnsgwunapzgF4coIEeL5Pw1xOjjgW5c/edit#heading=h.pxo37l27sgun)
 : **<bold>Reading</bold>**{: .label .label-reading }[Cognitive Walkthroughs _(Focus on **"How To"** Section)_](https://www.usabilitybok.org/cognitive-walkthrough)
 : **<bold>Reading</bold>**{: .label .label-reading }[The Racial Bias Built into Photography)](https://drive.google.com/file/d/1sQ57eZtYvSphDrc0OM-F9QqsqRX91SIS/view?usp=sharing)
 

@@ -34,7 +34,7 @@ THU 6/30
 FRI 7/1
 : **<bold>Quiz 2 Due</bold>**{: .label .label-quiz }
 : **<bold>Project 2</bold>**{: .label .label-project} [2.3 Recruiting Message Due](https://docs.google.com/document/d/1jBpAAl-n5CD9RQ80euJtm-HOQG5-b4oIVtJtV0JLbHU/edit#heading=h.lzpwb47pnn3j)
-: **<bold>Project 3</bold>**{: .label .label-project} 3.1 Task 1A and 1B Due
+: **<bold>Project 3</bold>**{: .label .label-project} [3.1 Task 1A and 1B Due](https://docs.google.com/document/d/1J-9zUI_ftJnFNnsgwunapzgF4coIEeL5Pw1xOjjgW5c/edit#heading=h.nemox7i8xxxw)
 
 **Resources**
 : [The Modern JavaScript Tutorial](https://javascript.info/)
