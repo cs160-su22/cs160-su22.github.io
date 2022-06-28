@@ -11,6 +11,9 @@ seo:
 # CS 160: User Interface Design and Development
 
 [_Lecture Zoom Link_](https://berkeley.zoom.us/j/94704138173){: .btn .btn-outline }
+[_Google Drive_]([_Lecture Zoom Link_](https://berkeley.zoom.us/j/94704138173){: .btn .btn-outline }
+){: .btn .btn-outline }
+
 
 [Google Calendar (to see times and Zoom links for Office Hours, Discussion Sections)](/schedule/#google-calendar). 
 
