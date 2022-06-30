@@ -16,7 +16,7 @@ TUE 6/28
 : **<bold>Reading</bold>**{: .label .label-reading }[10 Cognitive Biases to Avoid in User Research](https://uxdesign.cc/10-cognitive-biases-to-avoid-in-user-research-and-how-to-avoid-them-993aa397c8c6)
 
 WED 6/29
-: **<bold>Remote Lecture</bold>**{: .label .label-lecture }[Lecture 5](#)
+: **<bold>Remote Lecture</bold>**{: .label .label-lecture }[Lecture 5](https://docs.google.com/presentation/d/1AnbKatwcn6yOlHxySd0eZo7UCxa9yjH5Hv44oVlCyhQ/edit?usp=sharing)
    : [Slides](#)
 : **<bold>Project 1</bold>**{: .label .label-project} [Final Report Due](https://docs.google.com/document/d/1Mf5QVn8_z3vfibqNRhxOGoPPZRq6AQPPeuAg2zpdQNU/edit?usp=sharing)
 : **<bold>Reading</bold>**{: .label .label-reading }[Embracing 4 Tensions in HCI Research with Marginalized People _**(Read to Section 2.5)**_](https://www.smunson.com/portfolio/projects/Liang-HCIRwithMarginalizedPeople-Preprint.pdf)
@@ -24,7 +24,7 @@ WED 6/29
 
 
 THU 6/30
-: **<bold>Lecture</bold>**{: .label .label-lecture }[Lecture 6](#)
+: **<bold>Lecture</bold>**{: .label .label-lecture }[Lecture 6](https://docs.google.com/presentation/d/1AnbKatwcn6yOlHxySd0eZo7UCxa9yjH5Hv44oVlCyhQ/edit?usp=sharing)
   : [Slides](#)
 : **<bold>Project 2</bold>**{: .label .label-project} [2.1 Initial Task Analysis Due](https://docs.google.com/document/d/1jBpAAl-n5CD9RQ80euJtm-HOQG5-b4oIVtJtV0JLbHU/edit#heading=h.nemox7i8xxxw)
 : **<bold>Project 2</bold>**{: .label .label-project} [2.2 Observation Plan Due](https://docs.google.com/document/d/1jBpAAl-n5CD9RQ80euJtm-HOQG5-b4oIVtJtV0JLbHU/edit#heading=h.5k6ilhj1egw7)
