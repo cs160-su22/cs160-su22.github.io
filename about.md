@@ -82,6 +82,26 @@ Final grades will be determined with the following breakdown:
 
 **20% Assessments**: Every week for the first 6 weeks, there will be a quiz. The quiz will cover content throughout the week, so we encourage you to complete it progressively during the week instead of waiting until the end. It will be multiple choice and short answer, and will cover lecture material (including breakout room prompts), readings from any prior week, and readings from the current week. There is no midterm or final exam.
 
+The grading bins will follow standard bins:
+
+| Grade   | Range     |
+|:--------|:----------|
+| A+ | \[97, 100\]|
+| A  | \[93, 97)  |
+| A- | \[90, 93)  |
+| B+ | \[87, 90)  |
+| B  | \[83, 87)  |
+| B- | \[80, 83)  |
+| C+ | \[77, 80)  |
+| C  | \[73, 77)  |
+| C- | \[70, 73)  |
+| D+ | \[67, 70)  |
+| D  | \[63, 67)  |
+| D- | \[60, 63)  |
+| F  | \[0, 60)   |
+
+If the class grade distribution ends up being too low relative to [EECS grading guidelines](https://eecs.berkeley.edu/resources/faculty-staff/academic-personnel/grading-guidelines-undergrad), we may curve grades upwards. And remember, we'll take high participation into account for students on the borderline!
+
 ## Late Policies
 
 This is an accelerated 8-week course, and assignments tend to be accumulative -- it can be easy to fall behind. Please plan accordingly and communicate with course staff before you get overwhelmed - we are here to help you succeed! 

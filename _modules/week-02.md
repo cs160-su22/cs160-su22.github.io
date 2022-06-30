@@ -12,20 +12,21 @@ MON 6/27
 TUE 6/28
 : **<bold>Project 1</bold>**{: .label .label-project} [1.5 Interactive Prototype Due](https://docs.google.com/document/d/1Mf5QVn8_z3vfibqNRhxOGoPPZRq6AQPPeuAg2zpdQNU/edit?usp=sharing)
 : **<bold>Lecture</bold>**{: .label .label-lecture }[Lecture 4](#)
-  : [Slides](#)
+  : [Slides](https://docs.google.com/presentation/d/14G46hwyOeZEO5JyAAwR1rn4-whswmjKDxYs4lqkxjr4/edit?usp=sharing)
 : **<bold>Reading</bold>**{: .label .label-reading }[10 Cognitive Biases to Avoid in User Research](https://uxdesign.cc/10-cognitive-biases-to-avoid-in-user-research-and-how-to-avoid-them-993aa397c8c6)
 
 WED 6/29
-: **<bold>Remote Lecture</bold>**{: .label .label-lecture }[Lecture 5](https://docs.google.com/presentation/d/1AnbKatwcn6yOlHxySd0eZo7UCxa9yjH5Hv44oVlCyhQ/edit?usp=sharing)
-   : [Slides](#)
+: **<bold>Remote Lecture</bold>**{: .label .label-lecture }[Lecture 5](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
+   : [Slides](https://docs.google.com/presentation/d/1AnbKatwcn6yOlHxySd0eZo7UCxa9yjH5Hv44oVlCyhQ/edit?usp=sharing)
 : **<bold>Project 1</bold>**{: .label .label-project} [Final Report Due](https://docs.google.com/document/d/1Mf5QVn8_z3vfibqNRhxOGoPPZRq6AQPPeuAg2zpdQNU/edit?usp=sharing)
 : **<bold>Reading</bold>**{: .label .label-reading }[Embracing 4 Tensions in HCI Research with Marginalized People _**(Read to Section 2.5)**_](https://www.smunson.com/portfolio/projects/Liang-HCIRwithMarginalizedPeople-Preprint.pdf)
 : **<bold>Reading</bold>**{: .label .label-reading }[The Black Experience in Graphic Design: 1968 and 2020](https://letterformarchive.org/news/view/the-black-experience-in-graphic-design-1968-and-2020)
 
 
 THU 6/30
-: **<bold>Lecture</bold>**{: .label .label-lecture }[Lecture 6](https://docs.google.com/presentation/d/1AnbKatwcn6yOlHxySd0eZo7UCxa9yjH5Hv44oVlCyhQ/edit?usp=sharing)
-  : [Slides](#)
+
+: **<bold>Lecture</bold>**{: .label .label-lecture }[Lecture 6](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
+  : [Slides](https://docs.google.com/presentation/d/1QuF-EhpXHIHJKS92_nHQEDlmHccYfCYDsU2nSzNz0fg/edit?usp=sharing)
 : **<bold>Project 2</bold>**{: .label .label-project} [2.1 Initial Task Analysis Due](https://docs.google.com/document/d/1jBpAAl-n5CD9RQ80euJtm-HOQG5-b4oIVtJtV0JLbHU/edit#heading=h.nemox7i8xxxw)
 : **<bold>Project 2</bold>**{: .label .label-project} [2.2 Observation Plan Due](https://docs.google.com/document/d/1jBpAAl-n5CD9RQ80euJtm-HOQG5-b4oIVtJtV0JLbHU/edit#heading=h.5k6ilhj1egw7)
 
