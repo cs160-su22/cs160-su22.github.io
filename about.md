@@ -100,7 +100,7 @@ The grading bins will follow standard bins:
 | D- | \[60, 63)  |
 | F  | \[0, 60)   |
 
-If the class grade distribution ends up being too low relative to [EECS grading guidelines](https://eecs.berkeley.edu/resources/faculty-staff/academic-personnel/grading-guidelines-undergrad), we may curve grades upwards.
+If the class grade distribution ends up being too low relative to [EECS grading guidelines](https://eecs.berkeley.edu/resources/faculty-staff/academic-personnel/grading-guidelines-undergrad), we may curve grades upwards. And remember, we'll take high participation into account for students on the borderline!
 
 ## Late Policies
 
