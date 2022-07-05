@@ -29,7 +29,7 @@ THU 7/7
 
 
 FRI 7/8
-: **<bold>Project 2</bold>**{: .label .label-project} 2.6 Figma Prototype Due
+: **<bold>Project 2</bold>**{: .label .label-project} [2.6 Figma Prototype Due](https://docs.google.com/document/d/1jBpAAl-n5CD9RQ80euJtm-HOQG5-b4oIVtJtV0JLbHU/edit#heading=h.pzlclte6icm4)
 : **<bold>Quiz 3 Due</bold>**{: .label .label-quiz }
 
 **Resources**
