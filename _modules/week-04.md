@@ -4,7 +4,7 @@ subtitle: (This week, all lectures will be remote. Studio will still take place 
 ---
 
 MON 7/11
-: **Studio**{: .label .label-studio } [**Studio 3: TBD**](#)
+: **Studio**{: .label .label-studio } [**Studio 3: Usability Testing**](#)
 : **Project 2**{: .label .label-project} 2.7 Usability Test Due
 : **Project 2**{: .label .label-project} 2.8 Figma Prototype Revision Due
 
