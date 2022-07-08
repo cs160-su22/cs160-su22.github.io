@@ -19,15 +19,17 @@ WED 7/20
 : **Remote Lecture**{: .label .label-lecture }[Lecture 14](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
 	: [Slides](https://drive.google.com/drive/folders/1QaZaZay39VsE3DDVGFWscu2TYw-M21s2?usp=sharing)
 : **Reading**{: .label .label-reading } [How Bodies Matter: Five Themes for Interaction Design](https://drive.google.com/file/d/1p5734QctpLA-8IYUF2-hY6A9SgxINXg5/view)
-: **Project 4**{: .label .label-project } 4.5 Usability Experiment Design Due
+: **Project 4**{: .label .label-project } 4.5 Dialogue Flows Due
+
 
 THU 7/21
 : **Lecture**{: .label .label-lecture }[Lecture 15](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
 	: [Slides](https://drive.google.com/drive/folders/1QaZaZay39VsE3DDVGFWscu2TYw-M21s2?usp=sharing)
+: **Project 4**{: .label .label-project } 4.6 Usability Experiment Design Due
 
 FRI 7/22
-: **Project 4**{: .label .label-project } 4.6 Wizard-of-Oz Prototype Due
-: **Project 4**{: .label .label-project } 4.7a Sign up for Usability Testing 
+: **Project 4**{: .label .label-project } 4.7 Figma Prototype Due
+: **Project 4**{: .label .label-project } 4.8a Participate in Usability Testing 
 
 
 **Resources**
