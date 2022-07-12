@@ -24,10 +24,10 @@ THU 7/14
 : **Remote Lecture**{: .label .label-lecture }[Lecture 12](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
   : [Slides](https://drive.google.com/drive/folders/1QaZaZay39VsE3DDVGFWscu2TYw-M21s2?usp=sharing)
 : **Project 2**{: .label .label-project } [Project 2 Final Report Due](https://docs.google.com/document/d/1jBpAAl-n5CD9RQ80euJtm-HOQG5-b4oIVtJtV0JLbHU/edit#heading=h.jkpnhpb9btea)
-: **Project 4**{: .label .label-project } 4.1 Brainstorm Due
+: **Project 4**{: .label .label-project } [4.1 Brainstorm Due](https://docs.google.com/document/d/1EXzERZ7lBEhtPJg8pLuv9EcLn-JCeEzRtZX8mVKX2HU/edit#heading=h.3w0z2yjoskzq)
 
 FRI 7/15
-: **Project 4**{: .label .label-project } 4.2 Interview Plan Due
+: **Project 4**{: .label .label-project } [4.2 Interview Plan Due](https://docs.google.com/document/d/1EXzERZ7lBEhtPJg8pLuv9EcLn-JCeEzRtZX8mVKX2HU/edit#heading=h.3w0z2yjoskzq)
 : **Reading**{: .label .label-reading } [What is Voice User Interface (VUI) Design?](https://www.kathrynsadler.com/vui-design)
 : **Quiz 4 due**{: .label .label-quiz }
 
