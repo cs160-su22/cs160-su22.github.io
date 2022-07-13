@@ -5,7 +5,7 @@ subtitle:
 
 MON 7/18
 : **Studio**{: .label .label-studio } [**Studio 4: TBD**](#)
-: **Project 4**{: .label .label-project } [4.3 Interview Results Due])https://docs.google.com/document/d/1EXzERZ7lBEhtPJg8pLuv9EcLn-JCeEzRtZX8mVKX2HU/edit#heading=h.qvdjn7wknnvi)
+: **Project 4**{: .label .label-project } [4.3 Interview Results Due](https://docs.google.com/document/d/1EXzERZ7lBEhtPJg8pLuv9EcLn-JCeEzRtZX8mVKX2HU/edit#heading=h.qvdjn7wknnvi)
 : **Reading**{: .label .label-reading } [Why I Want my Voice Assistant to Speak Spanglish](https://www.youtube.com/watch?v=ohXfjysQhx8)
 
 
@@ -13,7 +13,7 @@ MON 7/18
 TUE 7/19
 : **Lecture**{: .label .label-lecture }[Lecture 13](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
 	: [Slides](https://drive.google.com/drive/folders/1QaZaZay39VsE3DDVGFWscu2TYw-M21s2?usp=sharing)
-: **Reading**{: .label .label-reading } [Creating Voice Interaction Flows. UX Design for Voice Interfaces] (https://uxdesign.cc/ux-design-for-voice-interfaces-part-ii-3b0056020cd3)
+: **Reading**{: .label .label-reading } [Creating Voice Interaction Flows. UX Design for Voice Interfaces](https://uxdesign.cc/ux-design-for-voice-interfaces-part-ii-3b0056020cd3)
 : **Project 4**{: .label .label-project } 4.4 Personas & Narratives Due
 
 WED 7/20
