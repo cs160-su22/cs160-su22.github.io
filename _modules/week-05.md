@@ -17,14 +17,14 @@ TUE 7/19
 : **Project 4**{: .label .label-project } [4.4 Personas & Narratives Due](https://docs.google.com/document/d/1EXzERZ7lBEhtPJg8pLuv9EcLn-JCeEzRtZX8mVKX2HU/edit#heading=h.3rj8duhyem64)
 
 WED 7/20
-: **Remote Lecture**{: .label .label-lecture }[Lecture 14](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
+: **Remote Lecture**{: .label .label-lecture } [Guest Lecture from Dr. Kishonna L. Gray](http://www.kishonnagray.com/)
 	: [Slides](https://drive.google.com/drive/folders/1QaZaZay39VsE3DDVGFWscu2TYw-M21s2?usp=sharing)
-: **Reading**{: .label .label-reading } [How Bodies Matter: Five Themes for Interaction Design](https://drive.google.com/file/d/1p5734QctpLA-8IYUF2-hY6A9SgxINXg5/view)
+: **Reading**{: .label .label-reading } [CHI 2022 Keynote Speech by Dr. Kishonna L. Gray](https://youtu.be/JjyJTCmpNH0?t=2308)
 : **Project 4**{: .label .label-project } 4.5 Dialogue Flows Due
 
 
 THU 7/21
-: **Lecture**{: .label .label-lecture }[Lecture 15](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
+: **Lecture**{: .label .label-lecture }[Lecture 14](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
 	: [Slides](https://drive.google.com/drive/folders/1QaZaZay39VsE3DDVGFWscu2TYw-M21s2?usp=sharing)
 : **Reading**{: .label .label-reading } [Critical Race Theory for HCI](https://drive.google.com/file/d/1p5734QctpLA-8IYUF2-hY6A9SgxINXg5/view)
 : **Project 4**{: .label .label-project } 4.6 Usability Experiment Design Due
