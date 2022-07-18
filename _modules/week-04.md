@@ -21,8 +21,7 @@ WED 7/13
 : **Project 2**{: .label .label-project} [2.9 Interactive Prototype Due](https://docs.google.com/document/d/1jBpAAl-n5CD9RQ80euJtm-HOQG5-b4oIVtJtV0JLbHU/edit#heading=h.e7n16pghvnnh)
 
 THU 7/14
-: **Remote Lecture**{: .label .label-lecture }[Lecture 12](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
-  : [Slides](https://drive.google.com/drive/folders/1QaZaZay39VsE3DDVGFWscu2TYw-M21s2?usp=sharing)
+: **Remote Lecture**{: .label .label-lecture } Cancelled due to weather/technical issues.
 : **Project 2**{: .label .label-project } [Project 2 Final Report Due](https://docs.google.com/document/d/1jBpAAl-n5CD9RQ80euJtm-HOQG5-b4oIVtJtV0JLbHU/edit#heading=h.jkpnhpb9btea)
 : **Project 4**{: .label .label-project } [4.1 Brainstorm Due](https://docs.google.com/document/d/1EXzERZ7lBEhtPJg8pLuv9EcLn-JCeEzRtZX8mVKX2HU/edit#heading=h.3w0z2yjoskzq)
 
