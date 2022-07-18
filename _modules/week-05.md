@@ -34,5 +34,7 @@ FRI 7/22
 : **Project 4**{: .label .label-project } 4.8a Participate in Usability Testing 
 
 
+
 **Resources**
+: Optional Readig: [Beyond Being There](https://drive.google.com/file/d/1D3THr4Z8eHDVcaulLPTfS0dGRN1zHLhj/view)
 : [How-to Guide for a Flawless Voice User Interface Design](https://appinventiv.com/blog/voice-user-interface-design/)

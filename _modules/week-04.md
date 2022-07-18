@@ -10,12 +10,12 @@ MON 7/11
 
 
 TUE 7/12
-: **Remote Lecture**{: .label .label-lecture }[Lecture 10](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
+: **Remote Lecture**{: .label .label-lecture }[Lecture 9](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
   : [Slides](https://drive.google.com/drive/folders/1QaZaZay39VsE3DDVGFWscu2TYw-M21s2?usp=sharing)
 : **Reading**{: .label .label-reading } [The Model Human Processor **_(Read Section 2.1)_**](https://drive.google.com/file/d/1nyEJi3EVMs7AONeO1zUbmHCvHsaXvbTd/view?usp=sharing)
 
 WED 7/13
-: **Remote Lecture**{: .label .label-lecture }[Lecture 11](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
+: **Remote Lecture**{: .label .label-lecture }[Lecture 10](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
 : [Slides](https://drive.google.com/drive/folders/1QaZaZay39VsE3DDVGFWscu2TYw-M21s2?usp=sharing)
 : **Reading**{: .label .label-reading } [Which Humans? Innovation, Equity, and Imagination in Human-Centered Design (Keynote at CHI)](https://www.youtube.com/watch?v=kDcz44ifdQw)
 : **Project 2**{: .label .label-project} [2.9 Interactive Prototype Due](https://docs.google.com/document/d/1jBpAAl-n5CD9RQ80euJtm-HOQG5-b4oIVtJtV0JLbHU/edit#heading=h.e7n16pghvnnh)
