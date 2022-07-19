@@ -37,5 +37,5 @@ FRI 7/22
 
 
 **Resources**
-: Optional Readig: [Beyond Being There](https://drive.google.com/file/d/1D3THr4Z8eHDVcaulLPTfS0dGRN1zHLhj/view)
+: Optional Reading: [Beyond Being There](https://drive.google.com/file/d/1D3THr4Z8eHDVcaulLPTfS0dGRN1zHLhj/view)
 : [How-to Guide for a Flawless Voice User Interface Design](https://appinventiv.com/blog/voice-user-interface-design/)
