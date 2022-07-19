@@ -7,7 +7,7 @@ SUN 7/24
 
 MON 7/25
 : **Studio**{: .label .label-studio } [**Studio: TBD**](#)
-: **Project 4**{: .label .label-project } 4.8 Usability Experiment Findings Due
+: **Project 4**{: .label .label-project } [4.8 Proof of Participation in Usability Tests Due](https://docs.google.com/document/d/1EXzERZ7lBEhtPJg8pLuv9EcLn-JCeEzRtZX8mVKX2HU/edit#heading=h.ynj4ln4yle9)
 
 TUE 7/26
 

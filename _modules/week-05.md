@@ -31,7 +31,7 @@ THU 7/21
 
 FRI 7/22
 : **Project 4**{: .label .label-project } 4.7 Figma Prototype Due
-: **Project 4**{: .label .label-project } 4.8a Participate in Usability Testing 
+: **Project 4**{: .label .label-project } [Reminder: Sign up for Usability Testing!](https://docs.google.com/document/d/1EXzERZ7lBEhtPJg8pLuv9EcLn-JCeEzRtZX8mVKX2HU/edit#heading=h.ynj4ln4yle9)
 : **Quiz 5 due**{: .label .label-quiz }
 
 
