@@ -8,7 +8,7 @@ MON 8/1
 
 
 TUE 8/2
-: **Lecture**{: .label .label-lecture }[Lecture 16](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
+: **Studio**{: .label .label-studio } In-Studio Work Session
 	: [Slides](https://drive.google.com/drive/folders/1QaZaZay39VsE3DDVGFWscu2TYw-M21s2?usp=sharing)
 
 

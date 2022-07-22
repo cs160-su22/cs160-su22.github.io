@@ -6,7 +6,7 @@ SUN 7/24
 : **Final Project**{: .label .label-project } Final Project Teams Finalized
 
 MON 7/25
-: **Studio**{: .label .label-studio } [**Studio: TBD**](#)
+: **Studio**{: .label .label-studio } [**Studio: Usability Testing**](#)
 : **Project 4**{: .label .label-project } [4.8 Proof of Participation in Usability Tests Due](https://docs.google.com/document/d/1EXzERZ7lBEhtPJg8pLuv9EcLn-JCeEzRtZX8mVKX2HU/edit#heading=h.ynj4ln4yle9)
 
 TUE 7/26
@@ -17,13 +17,12 @@ TUE 7/26
 
 
 WED 7/27
-: **Remote Lecture**{: .label .label-lecture }[Lecture 14](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
+: **Remote Lecture**{: .label .label-lecture }[TA Guest Lectures](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
 	: [Slides](https://drive.google.com/drive/folders/1QaZaZay39VsE3DDVGFWscu2TYw-M21s2?usp=sharing)
 : **Project 4**{: .label .label-project } Project 4 Final Report
 
 THU 7/28
-: **Lecture**{: .label .label-lecture }[Lecture 15](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
-	: [Slides](https://drive.google.com/drive/folders/1QaZaZay39VsE3DDVGFWscu2TYw-M21s2?usp=sharing)
+: **Studio**{: .label .label-studio } In-Studio Work Session
 
 FRI 7/29
 : **Final Project**{: .label .label-project } Milestone 0
