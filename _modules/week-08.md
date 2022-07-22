@@ -13,7 +13,6 @@ TUE 8/9
 
 
 WED 8/10
-: **Remote Lecture**{: .label .label-lecture }[Guest Lecture](#)
 : **Final Project**{: .label .label-project } Final Project Posters Due @ **11AM** for Printing
 
 
