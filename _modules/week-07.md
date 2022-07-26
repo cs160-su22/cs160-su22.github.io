@@ -9,8 +9,6 @@ MON 8/1
 
 TUE 8/2
 : **Studio**{: .label .label-studio } In-Studio Work Session
-	: [Slides](https://drive.google.com/drive/folders/1QaZaZay39VsE3DDVGFWscu2TYw-M21s2?usp=sharing)
-
 
 
 WED 8/3
