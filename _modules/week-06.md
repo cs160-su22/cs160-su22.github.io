@@ -7,7 +7,6 @@ SUN 7/24
 
 MON 7/25
 : **Studio**{: .label .label-studio } [**Studio: Usability Testing**](#)
-: **Project 4**{: .label .label-project } 
 TUE 7/26
 
 : **Lecture**{: .label .label-lecture }[Lecture 13](https://bcourses.berkeley.edu/courses/1515859/external_tools/78985)
