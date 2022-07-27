@@ -4,7 +4,7 @@ title: Week 7 - Final Project Week 2
 
 MON 8/1
 : **Studio**{: .label .label-studio } In-Studio Work Session
-: **Final Project**{: .label .label-project } Milestone 1 - Formative Research
+: **Final Project**{: .label .label-project } [Milestone 1 - Formative Research](https://docs.google.com/document/d/1g7VMlPbCgve1XahevxpZ9oAfjfD3pRD2Az1uV7_BL-E/edit?usp=sharing)
 
 
 TUE 8/2
@@ -19,4 +19,4 @@ THU 8/4
 : **Studio**{: .label .label-studio } In-Studio Work Session
 
 FRI 8/5
-: **Final Project**{: .label .label-project } Milestone 2 - Prototyping
+: **Final Project**{: .label .label-project } [Milestone 2 - Prototyping](https://docs.google.com/document/d/1g7VMlPbCgve1XahevxpZ9oAfjfD3pRD2Az1uV7_BL-E/edit?usp=sharing)
