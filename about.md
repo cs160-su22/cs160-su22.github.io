@@ -17,7 +17,7 @@ description: >-
 
 #### Curriculum and practice
 
-For the first five weeks, **lecture** occurs three days a week (Tuesday, Wednesday, and Thursday), studio once a week (Mondays during lecture), and section occurs twice a week. While lectures and studio focus on introducing core HCI concepts, sections reinforce these concepts and help students improve technical skills. Outside of class, students will work individually or in pairs on weekly projects. Weekly projects allow students to engage in the design cycle and develop technical skills.
+For the first five weeks, **lecture** occurs three days a week (Tuesday, Wednesday, and Thursday), studio once a week (Mondays during lecture), and section occurs twice a week. While lectures and studio focus on introducing core HCI concepts, sections reinforce these concepts and help students improve technical skills. Outside of class, students will work individually or in pairs on weekly projects. Weekly projects allow students to engage in the design cycle and develop technical skills.  
 
 #### Final project
 
